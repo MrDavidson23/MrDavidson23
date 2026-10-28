@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sebas Quesada 👋</h1>
+<h1 align="center">I'm Sebas Quesada</h1>
 <h3 align="center">Frontend Developer · React · Node.js · TypeScript</h3>
 
 <p align="center">
