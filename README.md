@@ -1,7 +1,7 @@
 <h1 align="center">Sebas Quesada</h1>
 
 <p align="center">
-  <b>Software Engineer · React · Node.js · TypeScript · Security</b><br/>
+  <b>Senior Software Engineer · React · Node.js · TypeScript · Security</b><br/>
   Building web platforms for 6+ years. Now moving toward AI and offensive security.
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About me
 
-I'm a Costa Rican software engineer who started coding at 15 and has been working professionally since 2020. I've shipped production web platforms with **React** and **Node.js** (plus **React Native**) for companies in the US and beyond, and I currently work as a **Software Engineer at IBM**.
+I'm a Costa Rican software engineer who started coding at 15 and has been working professionally since 2020. I've shipped production web platforms with **React** and **Node.js** (plus **React Native**) for companies in the US and beyond, and I currently work as a **Senior Software Engineer at IBM**.
 
 - 🏗️ I build full-stack products: React/TypeScript frontends, Node.js APIs, and AWS serverless backends (Lambda, Terraform).
 - 🔐 I'm completing a **Master's in Cybersecurity at TEC** and building offensive security skills alongside it (**CEH** certified).
@@ -53,16 +53,17 @@ I'm a Costa Rican software engineer who started coding at 15 and has been workin
 
 | Project | What it is | Tech |
 |---|---|---|
+| [**marcal-scan**](https://github.com/MrDavidson23/marcal-scan) [![npm](https://img.shields.io/npm/v/marcal-scan?color=8B5CF6&label=npm)](https://www.npmjs.com/package/marcal-scan) | Open-source secret scanner: finds exposed API keys in a repo or folder, explains the risk, and plugs into CI as a GitHub Action with SARIF output. Hardened against hostile repos (decompression bombs, malicious gitleaks configs, timeouts). | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
 | [**rag-security**](https://github.com/MrDavidson23/rag-security) | A RAG security assistant exploring how retrieval-augmented systems can be attacked and hardened. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**make-my-curriculum**](https://github.com/MrDavidson23/make-my-curriculum) | Resume generator. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**web-jobs-nodejs**](https://github.com/MrDavidson23/web-jobs-nodejs) | Web app to post and apply for jobs. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
 | [**groot**](https://github.com/MrDavidson23/groot) | Systems programming project in C. | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
 | [**pet-app**](https://github.com/MrDavidson23/pet-app) | Pet management app. | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) |
-| [**Portfolio**](https://github.com/MrDavidson23/Portfolio) | My personal portfolio website. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
+| [**portfolio-sebas**](https://github.com/MrDavidson23/portfolio-sebas) | My [portfolio site](https://portfoliosebastian.vercel.app): an interactive terminal, a hidden CTF, and no frameworks. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
 
 ## 💼 Experience highlights
 
-- **IBM**: Software Engineer (2023 – present). Enterprise web platforms with React and Node.js; also AI work with watsonx.ai.
+- **IBM**: Senior Software Engineer (2023 – present). Enterprise web platforms with React and Node.js; also AI work with watsonx.ai.
 - **First Factory**: Software Engineer (2022 – 2023). Enterprise web platforms with React and Node.js on AWS Lambda and Terraform.
 - **Pancake (2020 - 2022)**: web products, startups and full-stack work since 2020.
 
@@ -75,6 +76,7 @@ I'm a Costa Rican software engineer who started coding at 15 and has been workin
 
 ## 🎯 Currently
 
+- 🛡️ Maintaining [marcal-scan](https://github.com/MrDavidson23/marcal-scan), an open-source secret scanner (`npx marcal-scan .`)
 - 🔭 Building out [rag-security](https://github.com/MrDavidson23/rag-security) as a hands-on AI security portfolio piece
 - 📚 Studying offensive security and data analysis for cybersecurity
 - 🤝 Open to remote roles in **AI engineering, full-stack, or application security**
