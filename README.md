@@ -82,10 +82,7 @@ I'm a Costa Rican software engineer who started coding at 15 and has been workin
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MrDavidson23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrDavidson23&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<p align="center"> <img src="./github-metrics.svg" alt="GitHub metrics" /> </p>
 
 ---
 
